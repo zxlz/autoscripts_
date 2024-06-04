@@ -1,0 +1,26 @@
+2022-09-27 20:43:00-info: 84282@xueliangzhuMBP.local
+2022-09-27 20:43:00-info: library:/Users/zxl/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2022-09-27 20:43:00-info: spec name:Java Virtual Machine Specification
+2022-09-27 20:43:00-info: spec vender:Oracle Corporation
+2022-09-27 20:43:00-info: spec version:1.8
+2022-09-27 20:43:00-info: vm name:Java HotSpot(TM) 64-Bit Server VM
+2022-09-27 20:43:00-info: vm vender:Oracle Corporation
+2022-09-27 20:43:00-info: vm version:25.241-b07
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+九月 27, 2022 8:43:00 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl warn
+警告: not find library.properties in classpath use it by default !
+九月 27, 2022 8:43:00 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl info
+信息: path to stream library/ambiguity.dic
+九月 27, 2022 8:43:00 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl error
+严重: Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/zxl/Documents/autoscripts/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+九月 27, 2022 8:43:00 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl info
+信息: path to stream library/default.dic
+九月 27, 2022 8:43:00 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl error
+严重: Init dic library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/zxl/Documents/autoscripts/library/default.dic not found or can not to read, path: library/default.dic
+九月 27, 2022 8:43:01 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl info
+信息: init core library ok use time : 987
+九月 27, 2022 8:43:02 下午 org.nlpcn.commons.lang.util.logging.JakartaCommonsLoggingImpl info
+信息: init ngram ok use time :602
+2022-09-27 20:43:03-info: plan over , result{ success: 100 error: 0

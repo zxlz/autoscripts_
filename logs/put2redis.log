@@ -1,0 +1,12 @@
+2022-09-27 20:26:38-info: 83636@xueliangzhuMBP.local
+2022-09-27 20:26:38-info: library:/Users/zxl/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2022-09-27 20:26:38-info: spec name:Java Virtual Machine Specification
+2022-09-27 20:26:38-info: spec vender:Oracle Corporation
+2022-09-27 20:26:38-info: spec version:1.8
+2022-09-27 20:26:38-info: vm name:Java HotSpot(TM) 64-Bit Server VM
+2022-09-27 20:26:38-info: vm vender:Oracle Corporation
+2022-09-27 20:26:38-info: vm version:25.241-b07
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-09-27 20:32:14-info: result ===============add：10000 del：10000
